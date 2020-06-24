@@ -2,11 +2,11 @@
 
 ## how do we fork a repo? 
 
-- Fork this repo when the url is shared in slack
+- By selecting the fork option on the top left on github.
 
 ## how do clone a repo to be available on our local?
 
-- For discussion and then for all to clone
+- git clone followed by the URL.
 
 ## how do we move changes from working folder to staging?
 

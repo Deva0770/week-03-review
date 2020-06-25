@@ -1,0 +1,26 @@
+{
+  "name": "week-03-review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deva0770/week-03-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deva0770/week-03-review/issues"
+  },
+  "homepage": "https://github.com/Deva0770/week-03-review#readme",
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
